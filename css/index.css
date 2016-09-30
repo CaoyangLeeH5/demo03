@@ -118,6 +118,20 @@
   border-bottom: 10px solid #fff;
 }
 
+.index-menu .list{
+  margin-top: 253px;
+  width: 100%;
+  line-height: 0;
+
+}
+.index-menu li{
+  float: left;
+  display: inline-block;
+  width: 550px;
+  height: 97px;
+  background: #500909;
+}
+
 .index-panel.index01{
   height: 663px;
   background: #ffffff;
