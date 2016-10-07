@@ -75,6 +75,8 @@
   width: 40px;
   border-top: 1px solid #fff;
   vertical-align: middle;
+  /*IE7下的使用*/
+  *margin-top: 22px;
 }
 
 .index-banner-text .text-info .line-l{
